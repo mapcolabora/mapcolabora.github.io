@@ -6,5 +6,6 @@
     transform: translateX(-50%) translateY(-50%);
 }
 html {
-    font-family: sans-serif;
+    font-family: 'Varela Round', sans-serif;
+    color: #3d3d3d;
 }
